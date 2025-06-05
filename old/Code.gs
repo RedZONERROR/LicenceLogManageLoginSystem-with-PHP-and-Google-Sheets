@@ -121,13 +121,3 @@ function test(){
   var data = signup("user2@example.com", "1234567", "user two");
   Logger.log(JSON.stringify(data));
 }
-
-
-
-
-
-
-
-
-
-
